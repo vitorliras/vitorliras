@@ -1,7 +1,7 @@
 ### Olá, bem vindo. 👋
 
 - 🔭 Hoje eu trabalho full-stack
-- 🌱 Estudando um pouco de tudo
+- 🌱 Estudando e trabalhando, esse é meu jeito de ser
 - 😄 Prononus: ele/dele
 
 <div align="center">
