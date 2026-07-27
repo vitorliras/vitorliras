@@ -57,7 +57,7 @@ Sou desenvolvedor **Full Stack**, atuando principalmente com o ecossistema **.NE
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/vitorliras/vitorliras@output/dist/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vitorliras/vitorliras/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
 <br>
