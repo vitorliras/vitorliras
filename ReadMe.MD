@@ -66,15 +66,16 @@ Sou desenvolvedor **Full Stack**, atuando principalmente com o ecossistema **.NE
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/vitorlirati/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:SEU-EMAIL@exemplo.com">
+<a href="mailto:vitorlirasti@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/SEU-INSTAGRAM" target="_blank">
+<!-- <a href="https://www.instagram.com/nome" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+</a> -->
+
 
 </div>
 
